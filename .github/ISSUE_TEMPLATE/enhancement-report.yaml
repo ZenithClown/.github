@@ -34,13 +34,6 @@ body:
     validations:
       required: true
   
-  - type: textarea
-    id: ids
-    attributes:
-      label: Relevant PRs
-      description: If you are working on the new feature, or if the feature is related to an existing PR then link them with "#<ID>" for tracking.
-      render: shell
-  
   - type: checkboxes
     id: terms
     attributes:
