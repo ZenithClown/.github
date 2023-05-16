@@ -14,8 +14,5 @@ authors:
 # title of the repository
 title: ".github"
 
-# specify a code version, this is not yet done
-version: None
-
 # provide the code link, which is nothing but the repository link
 url: "https://github.com/ZenithClown/.github"
