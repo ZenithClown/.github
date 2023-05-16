@@ -14,7 +14,7 @@ body:
       value: |
         🌟 Thank you for taking your time ⌛ to file the 🌟 **enhancement report**. This issue is generated using [issue forms](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms).
         Currently, creating a *blank issue* is disabled (using [config.yaml](config.yaml)), and more types of issue forms/templates to be added soon.
-  
+
   - type: input
     id: contact
     attributes:
@@ -23,7 +23,7 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
-  
+
   - type: textarea
     id: what-feature
     attributes:
@@ -33,7 +33,7 @@ body:
       value: "This can be a new feature!"
     validations:
       required: true
-  
+
   - type: checkboxes
     id: terms
     attributes:
