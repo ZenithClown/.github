@@ -1,8 +1,12 @@
-<h1 align = "center">Contributor Covenant Code of Conduct</h1>
+<div align = "center">
+
+# Code of Conduct
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![IEEE Conference Paper Link](https://img.shields.io/badge/📃-IEEE_Conference_Paper_Link-blue)](https://ieeexplore.ieee.org/document/9972517)
+
+</div>
 
 <div align = "justify">
-
-## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -118,8 +122,7 @@ community.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-
+[Code of Conduct (v2.1)](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 Community Impact Guidelines were inspired by
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
