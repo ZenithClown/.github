@@ -2,7 +2,6 @@
 
 # Code of Conduct
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![IEEE Conference Paper Link](https://img.shields.io/badge/📃-IEEE_Conference_Paper_Link-blue)](https://ieeexplore.ieee.org/document/9972517)
 
 </div>
 
