@@ -11,8 +11,10 @@ body:
       # not the markdown/attributes/value section displayes the command as is, i.e.
       # if the contents are written in next line, the same will be displayed in the issue form.
       # this, some lines in this section may be too long (i.e. line length > 128 charecter convention)
-      value: |
-        🌟 Thank you for taking your time ⌛ to file the 🐛 **bug report**. This issue is generated using [issue forms](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms).
+      value: >
+        🌟 Thank you for taking your time ⌛ to file the 🐛 **bug report**. This issue is generated using
+        [issue forms](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms).
+
         Currently, creating a *blank issue* is disabled (using [config.yaml](config.yaml)), and more types of issue forms/templates to be added soon.
 
   - type: input
